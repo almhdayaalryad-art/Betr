@@ -1,0 +1,12 @@
+{
+  "name": "bitcoin-node-proxy",
+  "version": "1.0.0",
+  "description": "WebSocket Proxy لعقدة البيتكوين",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
